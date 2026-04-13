@@ -454,7 +454,7 @@ img {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
   gap: 2.5rem;
-  align-items: start;
+  align-items: center;
   background: var(--card);
   border-radius: var(--radius-lg);
   padding: 2rem;
