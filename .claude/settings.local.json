@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:nguyeenmai1908.github.io)",
+      "Bash(grep -E \"\\\\.\\(jpeg|jpg|png|webp|svg\\)$\")",
+      "Bash(fly deploy:*)",
+      "Bash(~/.fly/bin/fly deploy:*)",
+      "WebFetch(domain:build.rumie.org)"
+    ]
+  }
+}
