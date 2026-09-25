@@ -489,6 +489,25 @@ img {
   margin-bottom: 0;
 }
 
+.project-details {
+  font-size: 1.05rem;
+  color: var(--muted);
+}
+
+.project-details p {
+  margin-bottom: 0.9rem;
+  line-height: 1.65;
+}
+
+.project-details p:last-child {
+  margin-bottom: 0;
+}
+
+.project-details strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
 .project-meta {
   color: var(--muted);
   font-size: 0.95rem;
